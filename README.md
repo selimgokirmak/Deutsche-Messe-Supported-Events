@@ -89,3 +89,5 @@ Supports multiple **Deutsche Messe** exhibition websites with a consistent HTML 
 - [parts2clean 2025 Exhibitor List – parts2clean.de](https://www.parts2clean.de/en/expo/exhibitor-index/)
 
 - [PASSION PFERD 2025 Exhibitor List – passionpferd.com](https://www.passionpferd.com/en/expo/exhibitor-index/)
+
+- [EMO Hannover 2025 Exhibitor List – visitors.emo-hannover.de](https://visitors.emo-hannover.de/en/expo/exhibitor-index/)
