@@ -56,6 +56,10 @@ Supports multiple **Deutsche Messe** exhibition websites with a consistent HTML 
 
 - [A2Z Events Exhibitor List Scraper](https://apify.com/skython/a2z-events-exhibitor-list-scraper)
 
+- [Newfront Exhibitor List Scraper](https://apify.com/skython/newfront-exhibitor-list-scraper)
+
+- [Goeshow Exhibitor List Scraper](https://apify.com/skython/goeshow-exhibitor-list-scraper)
+
 
 ## 🎯 Supported Website Structure
 
