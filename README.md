@@ -68,9 +68,9 @@ Ideal for **B2B lead generation, market research, event networking, and competit
 
 ## Supported Deutsche Messe Events (Exhibitor Lists)
 
-- The following partial list includes Deutsche Messe exhibitor directory URLs that have been tested so far. Other Deutsche Messe events or different events with the same website structure may also be supported.
+> The following partial list includes Deutsche Messe exhibitor directory URLs that have been tested so far. Other Deutsche Messe events or different events with the same website structure may also be supported.
 
-- Some event URLs may have been updated or canceled entirely; please check them before using.
+> Some event URLs may have been updated or canceled entirely; please check them before using.
 
 - [HANNOVER MESSE 2026 Exhibitor List – hannovermesse.de](https://www.hannovermesse.de/en/expo/exhibitor-short-index/index-2)
 
